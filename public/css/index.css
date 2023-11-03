@@ -145,19 +145,19 @@ header {
 }
 
 .item1 {
-  background-image: url(public/background1.png);
+  background-image: url(../public/background1.png);
 }
 
 .item2 {
-  background-image: url(public/background2.png);
+  background-image: url(../public/background2.png);
 }
 
 .item3 {
-  background-image: url(public/background3.png);
+  background-image: url(../public/background3.png);
 }
 
 .item4 {
-  background-image: url(public/background4.png);
+  background-image: url(../public/background4.png);
 }
 
 .text {
