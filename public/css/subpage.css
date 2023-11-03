@@ -61,7 +61,7 @@
   text-decoration: underline solid 2px white;
 }
 
-.container h3{
+.container1 h3{
   color: #920024;
   font-weight: 700;
   font-family: var(--font-poppins);
@@ -197,12 +197,9 @@ list-style: none;
 }
 
 .subpage6 {
-  margin: -10px -54px;
   min-height: 30vh;
   display: flex;
-  max-width: 10000px;
   background-color: var(--color-brown);
-  overflow: hidden;
 }
 
 .contact {
