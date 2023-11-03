@@ -196,53 +196,6 @@ ul{
 list-style: none;
 }
 
-.subpage6 {
-  min-height: 35vh;
-  max-width: 1170px;	
-  display: flex;
-  background-color: var(--color-brown);
-}
-
-.contact {
-  margin: 10px 120px;
-  display: flex;
-  padding: 10px 0;
-  flex-direction: row;
-  justify-content: space-between;
-}
-
-.contactCard {
-  border-radius: 10px;
-  height:fit-content;
-  width: fit-content;
-  background-color:transparent;
-  text-align: center;
-  margin: 0;
-}
-
-.contactUs, .contactText {
-  font-size: 18px;
-  color: white;
-  text-align: left;
-  width: fit-content;
-}
-
-.contactUs {
-  font-weight: 700;
-}
-
-.sosmed {
-  display: flex;
-  flex-direction: row;
-}
-
-.sosmedlogo {
-  width: 40px;
-  justify-content: space-between;
-  padding-top: 5px;
-  padding-right: 8px;
-}
-
 
 
 
