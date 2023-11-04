@@ -1,1 +1,3 @@
-# uts-lab-pw
+UTS LAB 1 PEMWEB KELOMPOK 10
+- Aini Maharani (221401023) 
+- Felicia Salim (221401049)
