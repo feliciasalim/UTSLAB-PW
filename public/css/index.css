@@ -30,6 +30,7 @@ p {
 .login a {
   color: white;
   padding: 10px;
+  text-decoration: none;
 }
 
 .head {
@@ -126,6 +127,8 @@ header {
 
 .signup {
   position: absolute;
+  margin-left: auto;
+  margin-right: auto;
   top: 47vh;
   left: 97vh;
   z-index: 1000;
@@ -138,6 +141,7 @@ header {
   background-color: var(--color-brown);
   color: white;
   cursor: pointer;
+  text-decoration: none;
 }   
 
 .signup:hover {
@@ -346,6 +350,7 @@ hr {
   background: #D4ACB6;
   box-shadow: 0px 7px 50px 0px rgba(0, 0, 0, 0.45);
   transition: 1s linear;
+  text-decoration: none;
 }
 
 .product1 {
