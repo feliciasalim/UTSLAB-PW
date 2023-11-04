@@ -17,6 +17,10 @@
     padding: 15px;
 }
 
+.li {
+    list-type: none 
+}
+
 .navbar {
     width: 100%;
     position: fixed;
