@@ -42,7 +42,7 @@
 
 .login {
     position: fixed;
-    margin-left: 1020px ;
+    margin-left: 1050px ;
     z-index: 1000;
     display: flex;
     flex-direction: row;
