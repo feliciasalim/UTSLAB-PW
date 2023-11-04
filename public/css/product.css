@@ -51,11 +51,13 @@
 
 .cartImg {
     padding: 0 20px;
+    list-style-type: none;
 }
 
 .text {
     color: white;
     height: 80px;
+    list-style-type: none;
 }
 
 .section {
